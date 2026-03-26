@@ -221,13 +221,3 @@ GitHub:
 [https://github.com/Upendra5114](https://github.com/Upendra5114)
 
 ---
-
-If you want, I can also create a **🔥 professional GitHub-ready README** with:
-
-✅ badges
-✅ screenshots section
-✅ API table
-✅ architecture diagram
-✅ resume-level presentation
-
-Just say **“make it portfolio ready”**.
