@@ -1,0 +1,8 @@
+step-1: bring the input to img format
+step-2: extracting text from the image using tesseract ocr
+step-3: understanding text converting into desired format using llm
+setp-3.1: sending req to online api
+step-3.2: sending req to offline api
+step-4: storing data(database)
+step:5 vadilation of data(pydantic)
+step-6: converting data into json format
